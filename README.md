@@ -1,4 +1,3 @@
-# deep-learning-challenge
 # Charity Funding Prediction
 
 This repository contains a neural network model developed to predict the success of funding applications for a charity. The analysis includes data preprocessing, model development, and evaluation, with suggestions for potential improvements.
